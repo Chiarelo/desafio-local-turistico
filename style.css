@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+    font-size: 16px;
+}
+
+#page {
+    width: 1120px;
+    margin: 88px auto 110px;
+}
+
+section + section {
+    margin-top: 40px;
+}
+
+img {
+    border-radius: 28px;
+    width: 100%;
+}
+
+.about-busan p {
+    margin-top: 24px;
+    text-align: center;
+    font-style: italic;
+    color: #333333;
+}
+
+.divisor {
+    border: 1px solid #D9D9D9;
+    /* margin-bottom: 40px; */
+}
+
+.tittle-list {
+    margin: 64px 0px;
+}
+
+.card-travel + .card-travel {
+    margin-top: 48px;
+}
+
+.card-travel img {
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: #1B1B1B;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 6px
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+.divisor:nth-child(2) {
+    color: #E1624F;
+}
+
+.headline {
+    color: #E1624F;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+}
