@@ -25,7 +25,8 @@
 ##  📂 Projeto
 
 <p align="center">
-  <img alt="Projeto" src="https://github.com/user-attachments/assets/e79b1e13-c83d-4dcb-8a70-d88f95785a3d">
+  <!-- <img alt="Projeto" src="https://github.com/user-attachments/assets/e79b1e13-c83d-4dcb-8a70-d88f95785a3d"> -->
+  ![Layout-local-turistico](https://github.com/user-attachments/assets/64467f50-8b17-4d57-aa47-17a72d4bbdd5)
 </p>
 
 ---
