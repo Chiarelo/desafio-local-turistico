@@ -8,7 +8,7 @@
 
 #page {
     width: 1120px;
-    margin: 88px auto 110px;
+    margin: 88px auto 65px;
 }
 
 section + section {
@@ -67,6 +67,7 @@ h2 {
 h3 li {
     font-size: 28px;
     list-style-position: inside;
+    margin-left: 12px;
 }
 
 ul li {
@@ -91,10 +92,20 @@ ul.colors li:nth-child(3){
     color: #E95E10;
 }
 
-
 .headline {
     color: #E1624F;
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 2px;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+footer img {
+    height: 16px;
+    width: 16px;
+    vertical-align: middle;
 }
