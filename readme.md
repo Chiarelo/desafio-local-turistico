@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="https://chiarelo.github.io/desafio-local-turistico/" target="_blank">Clique Aqui</a>. 
+Para acessar o projeto <a href="https://desafio-local-turistico-one.vercel.app/" target="_blank">Clique Aqui</a>. 
 
 ## 📝 Licença
 
